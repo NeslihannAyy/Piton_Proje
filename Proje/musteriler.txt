@@ -1,0 +1,5 @@
+"name": "Enes Nihat", "password": "1234", "client number": "1","balance":"10000","bank":"Ziraat",
+"name": "Atahan Altan","password": "1235","client number": "2","balance": "10000","bank": "Yapi Kredi",
+"name": "Yaren Cemal","password": "1236","client number": "4","balance": "15","bank": "Ziraat",
+"name": "Neslihan Ay","password": "1237","client number": "5","balance": "10000000","bank": "Ziraat",
+
